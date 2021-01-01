@@ -46,11 +46,13 @@
          <td value="Longest Substring Without Repeating Characters" label="Problem">
             <div><a  href="https://leetcode.com/problems/longest-substring-without-repeating-characters" target="_blank" data-slug="longest-substring-without-repeating-characters">Longest Substring Without Repeating Characters</a></div>
          </td>
-         <td label="Solution"></td>
+         <td label="Solution">
+            <div><a  href="/solutions/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py" target="_blank" data-slug="longest-substring-without-repeating-characters">Python</a></div>
+         </td>
          <td label="Difficulty">Medium</td>
-         <td label="Tags"></td>
+         <td label="Tags">Array<br/>Set</br>Hash</br>Map</td>
          <td label="Companies"></td>
-         <td label="Status"></td>
+         <td label="Status">Completed</td>
       </tr>
       <tr>
          <td label="#">4</td>
