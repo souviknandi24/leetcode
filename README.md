@@ -33,11 +33,13 @@
          <td value="Add Two Numbers" label="Problem">
             <div><a  href="https://leetcode.com/problems/add-two-numbers" target="_blank" data-slug="add-two-numbers">Add Two Numbers</a></div>
          </td>
-         <td label="Solution"></td>
+         <td label="Solution">
+            <div><a  href="/solutions/add-two-numbers/add-two-numbers.py" target="_blank" data-slug="add-two-numbers">Python</a></div>
+         </td>
          <td label="Difficulty">Medium</td>
-         <td label="Tags"></td>
+         <td label="Tags">Linked List</td>
          <td label="Companies"></td>
-         <td label="Status"></td>
+         <td label="Status">Completed</td>
       </tr>
       <tr>
          <td label="#">3</td>
